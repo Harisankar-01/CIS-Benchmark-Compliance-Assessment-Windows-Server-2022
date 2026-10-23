@@ -80,3 +80,5 @@ Before/after screenshots of both policies (Local Security Policy editor) are inc
 ## Conclusion
 
 This assessment evaluated and hardened the Password Policy and Account Lockout Policy of Windows Server 2022 against CIS Benchmark v3.0.0. The resulting configuration prevents password reuse, enforces stronger password requirements, and protects against brute-force attacks through automatic account lockout. Combined with the SOC lab project, this demonstrates the full defense-in-depth story: a weak policy enabling compromise, and a properly hardened policy closing that gap at the source rather than relying on detection alone.
+
+Detailed report of the lab:<a href="https://drive.google.com/file/d/1zDEFxvf-GHrlX-_3lXMiE0E2UEtmGi9-/view?usp=drive_link"> VIEW FULL REPORT </a>
